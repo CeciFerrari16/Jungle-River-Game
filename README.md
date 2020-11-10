@@ -14,3 +14,5 @@ Per eseguire il programma seguire i seguenti punti:
 - installare pygame "pip install pygame"
 - eseguire il programma con il comando "python JungleRiver.py" sul terminale
 - seguire le istruzioni descritte nel paragrafo precedente per i comandi
+
+Le immagini usate nel gioco sono state prese da Open Game Art (https://opengameart.org/).
